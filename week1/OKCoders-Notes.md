@@ -1,6 +1,6 @@
 Thursday's Agenda
 
-[Like A Boss](http://gph.is/2cQmSle)
+![Like A Boss](http://gph.is/2cQmSle)
 
 Newbies:
 
