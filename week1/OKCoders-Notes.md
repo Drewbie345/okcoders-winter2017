@@ -1,6 +1,6 @@
 Thursday's Agenda
 
-<img src="http://giphy.com/gifs/ZhpVK9YhTyRLa/html5" />
+![Like A Boss](https://media.giphy.com/media/ZhpVK9YhTyRLa/giphy.gif)
 
 Newbies:
 
