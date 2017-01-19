@@ -1,6 +1,6 @@
 Thursday's Agenda
 
-[Like A Boss](https://github.com/Drewbie345/okcoders-winter2017/blob/master/week1/likeaboss.gif?raw=true)
+[Like A Boss](http://gph.is/2cQmSle)
 
 Newbies:
 
