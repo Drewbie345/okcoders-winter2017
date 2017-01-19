@@ -1,5 +1,7 @@
 Thursday's Agenda
 
+[Like A Boss](/likeaboss.gif)
+
 Newbies:
 
 1. Open your text editor and save a new file as an HTML file. Open it in your browser.
