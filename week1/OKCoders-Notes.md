@@ -1,6 +1,8 @@
 Thursday's Agenda
 =================
 
+This is my change!
+
 ![Like A Boss](https://media.giphy.com/media/ZhpVK9YhTyRLa/giphy.gif)
 
 Newbies:
