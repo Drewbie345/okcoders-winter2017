@@ -13,8 +13,7 @@ Assignments
 
 ### JavaScript
 
-1. [JS Activty #1](https://github.com/Drewbie345/okcoders-spring2016/blob/master/week3/jsActivity1.md)
-2. [JS Activity #2](https://github.com/Drewbie345/okcoders-spring2016/blob/master/week3/jsActivity2.md)
+1. [JS Activity #2](https://github.com/Drewbie345/okcoders-spring2016/blob/master/week3/jsActivity2.md)
 
 ### Project
 

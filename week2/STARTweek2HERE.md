@@ -20,6 +20,7 @@ Assignments
 1. Work through the [JavaScript Basics](http://www.theodinproject.com/web-development-101/javascript-basics) from the Odin Project.
 2. Activity #1 - [Calculator Project](http://www.theodinproject.com/javascript-and-jquery/on-screen-calculator)
 3. IN CLASS, WE WILL WORK THROUGH THE JS-PROJECT FOLDER.
+4. [JS Activty #1](https://github.com/Drewbie345/okcoders-winter2017/blob/master/week2/jsActivity1.md)
 
 Project
 -------
