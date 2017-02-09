@@ -6,6 +6,8 @@ Assignments
 
 ### JavaScript
 
+[Read about JavaScript functions!](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
+
 1. [JavaScript Activity #1](https://github.com/Drewbie345/okcoders-spring2016/blob/master/week4/jsActivity1.md)
 2. [JavaScript Activity #2](https://github.com/Drewbie345/okcoders-spring2016/blob/master/week4/jsActivity2.md)
 3. [JavaScript Activity #3](https://github.com/Drewbie345/okcoders-spring2016/blob/master/week4/jsActivity3.md)
